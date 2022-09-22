@@ -3,7 +3,7 @@
   "title": "Hospital Beds Dedicated For Covid-19 in Malaysia (19 September 2022)",
   "width": 900,
   "height": 400,
-  "projection": {"type": "equalEarth"},
+  "projection": {"type": "equirectangular"},
   "data": {
     "url": "js/malaysia_states.topojson",
     "format": {"type": "topojson", "feature": "states"}
